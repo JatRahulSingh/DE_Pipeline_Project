@@ -188,7 +188,7 @@ It mirrors the structure of real production batch pipelines.
 
 ## 👨‍💻 Author
 
-**Vardhan**  
+**Jat Rahul Singh**  
 Data Engineering • Python • PySpark • MongoDB
 
 ---
