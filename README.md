@@ -105,6 +105,14 @@ DE_Pipeline_Project/
 
 ## ⚙️ Requirements
 
+**Python**
+
+**Java (for pyspark)**
+
+**Mongodb**
+
+**Pyspark**
+
 Install dependencies:
 
 ```
