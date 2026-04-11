@@ -41,7 +41,7 @@ def generate_order(order_id: int) -> dict:
         "delivery_rating": random.randint(1, 5)
     }
 
-def main(num_orders: int = 10000):
+def main(num_orders: int = 1000000):
     # Ensure data/raw exists
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     raw_dir = os.path.join(base_dir, "data", "raw")
